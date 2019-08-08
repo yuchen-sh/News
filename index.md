@@ -8,4 +8,8 @@
 
 * Attended IEEE International Communication Conference (ICC) on May 20th, 2019, in Shanghai, and presented two accepted papers. 
 
+* One of our research papers on end-to-end simulations of mmWave backhaul networks in ns-3 was accepted by ACM WNS3 workshop.
+
      (updated by July, 2019)
+
+[<u><font size='4'>Back to Homepage</font></u>](https://yuchen-sh.github.io)
