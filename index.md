@@ -3,6 +3,8 @@
 ### Oct, 2019
 * We submitted one recent paper on multi-AP wireless LAN to [IEEE/ACM Transactions on Networking](https://ton.lids.mit.edu/index.html).
 
+* We submitted one recent paper on AP mobility in WiFi networks to [IEEE International Conference on Communications](https://icc2020.ieee-icc.org/).
+
 ### July, 2019
 * Two of our research papers have been accepted by the 22nd ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWiM) in 2019, which is ranked as *A* in [Core Conference Portal](http://portal.core.edu.au/conf-ranks/). 
 
