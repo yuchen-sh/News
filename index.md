@@ -1,5 +1,9 @@
 
 ## <span id="j2"><font color='darkblue' face="Georgia">WHAT'S NEWS</font></span>
+### Nov, 2019
+
+* Attended ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWiM) on Nov. 25th, 2019, in Miami, and presented two accepted papers. One paper was one of the Best Paper Finalists. 
+
 ### Oct, 2019
 * We submitted one recent paper on multi-AP wireless LAN to [IEEE/ACM Transactions on Networking](https://ton.lids.mit.edu/index.html).
 
