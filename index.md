@@ -2,7 +2,9 @@
 ## <span id="j2"><font color='darkblue' face="Georgia">WHAT'S NEWS</font></span>
 ### Nov, 2019
 
-* Attended ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWiM) on Nov. 25th, 2019, in Miami, and presented two accepted papers. One paper was one of the Best Paper Finalists. 
+* Attended ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWiM) on Nov. 25th, 2019, in Miami, and presented two accepted papers. One paper was the Best Paper Finalist. 
+
+* Attended NSF I/UCRC Meeting for Fiber Wireless Integration and Networking for Heterogeneous Mobile Data Communications on Nov. 6th, 2019, and presented a poster about the work of mmWave Wireless LANs. 
 
 ### Oct, 2019
 * We submitted one recent paper on multi-AP wireless LAN to [IEEE/ACM Transactions on Networking](https://ton.lids.mit.edu/index.html).
