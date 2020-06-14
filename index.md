@@ -1,5 +1,22 @@
 
 ## <span id="j2"><font color='darkblue' face="Georgia">WHAT'S NEWS</font></span>
+
+### Jun, 2019
+* Our research paper on multiple mobile APs has been accepted by the IEEE International Symposium on Local and Metropolitan Area Networks in 2020.
+
+### May, 2019
+* Our research paper on AP mobility has been accepted by the IEEE International Conference on Communications in 2020.
+
+* I attended the [IEEE Wireless Communications and Networking Conference](https://wcnc2020.ieee-wcnc.org/) on 25-28 May 2020.
+
+### April, 2020
+* I gave a research talk "Robust mmWave Design for Next-generation Wireless Networks", at Georgia Institute of Technology, USA.
+
+### Mar, 2020
+* We submitted one recent paper on mobile mmWave WiFi study to [IEEE International Symposium on Local and Metropolitan Area Networks](https://lanman2020.ieee-lanman.org/).
+
+* We submitted one recent paper on machine learning-based AP mobility approach to [ACM MobiHoc](https://www.sigmobile.org/mobihoc/2020/).
+
 ### Nov, 2019
 
 * Attended ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWiM) on Nov. 25th, 2019, in Miami, and presented two accepted papers. One paper was the Best Paper Finalist. 
