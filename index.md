@@ -15,6 +15,7 @@
 ### Mar, 2020
 * We submitted one recent paper on mobile mmWave WiFi study to [IEEE International Symposium on Local and Metropolitan Area Networks](https://lanman2020.ieee-lanman.org/).
 
+### Jan, 2020
 * We submitted one recent paper on machine learning-based AP mobility approach to [ACM MobiHoc](https://www.sigmobile.org/mobihoc/2020/).
 
 ### Nov, 2019
