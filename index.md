@@ -1,10 +1,10 @@
 
 ## <span id="j2"><font color='darkblue' face="Georgia">WHAT'S NEWS</font></span>
 
-### Jun, 2019
-* Our research paper on multiple mobile APs has been accepted by the IEEE International Symposium on Local and Metropolitan Area Networks in 2020.
+### Jun, 2020
+* Our research paper on multiple mobile APs has been accepted by the IEEE International Symposium on Local and Metropolitan Area Networks, 2020.
 
-### May, 2019
+### May, 2020
 * Our research paper on AP mobility has been accepted by the IEEE International Conference on Communications in 2020.
 
 * I attended the [IEEE Wireless Communications and Networking Conference](https://wcnc2020.ieee-wcnc.org/) on 25-28 May 2020.
