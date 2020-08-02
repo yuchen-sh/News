@@ -1,8 +1,15 @@
 
 ## <span id="j2"><font color='darkblue' face="Georgia">WHAT'S NEWS</font></span>
+### July, 2020
+* I attended the [IEEE International Symposium on Local and Metropolitan Area Networks](https://lanman2020.ieee-lanman.org/) on 13-14 July, 2020, and presented our recent research "On the Potential Benifits of Mobile APs in mmWave WLANs".
+
 
 ### Jun, 2020
 * Our research paper on multiple mobile APs has been accepted by the IEEE International Symposium on Local and Metropolitan Area Networks, 2020.
+
+* I attended the [ACM MobiSys](https://www.sigmobile.org/mobisys/2020/) on 16-19 June, 2020.
+
+* I attended the [IFIP Networking Conference](https://networking.ifip.org/2020/) on 22-25 June, 2020, and got the NSF student grant.
 
 ### May, 2020
 * Our research paper on AP mobility has been accepted by the IEEE International Conference on Communications in 2020.
