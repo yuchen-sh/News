@@ -1,23 +1,23 @@
 
 ## <span id="j2"><font color='darkblue' face="Georgia">WHAT'S NEWS</font></span>
 ### July, 2020
-* I attended the [IEEE International Symposium on Local and Metropolitan Area Networks](https://lanman2020.ieee-lanman.org/) on 13-14 July, 2020, and presented our recent research "On the Potential Benifits of Mobile APs in mmWave WLANs".
+* Attended the [IEEE International Symposium on Local and Metropolitan Area Networks](https://lanman2020.ieee-lanman.org/) on 13-14 July, 2020, and presented our recent research "On the Potential Benifits of Mobile APs in mmWave WLANs".
 
 
 ### Jun, 2020
 * Our research paper on multiple mobile APs has been accepted by the IEEE International Symposium on Local and Metropolitan Area Networks, 2020.
 
-* I attended the [ACM MobiSys](https://www.sigmobile.org/mobisys/2020/) on 16-19 June, 2020.
+* Attended the [ACM MobiSys](https://www.sigmobile.org/mobisys/2020/) on 16-19 June, 2020.
 
-* I attended the [IFIP Networking Conference](https://networking.ifip.org/2020/) on 22-25 June, 2020, and got the NSF student grant.
+* Attended the [IFIP Networking Conference](https://networking.ifip.org/2020/) on 22-25 June, 2020, and got the NSF student grant.
 
 ### May, 2020
 * Our research paper on AP mobility has been accepted by the IEEE International Conference on Communications in 2020.
 
-* I attended the [IEEE Wireless Communications and Networking Conference](https://wcnc2020.ieee-wcnc.org/) on 25-28 May 2020.
+* Attended the [IEEE Wireless Communications and Networking Conference](https://wcnc2020.ieee-wcnc.org/) on 25-28 May 2020.
 
 ### April, 2020
-* I gave a research talk "Robust mmWave Design for Next-generation Wireless Networks", at Georgia Institute of Technology, USA.
+* Gave a research talk "Robust mmWave Design for Next-generation Wireless Networks", at Georgia Institute of Technology, USA.
 
 ### Mar, 2020
 * We submitted one recent paper on mobile mmWave WiFi study to [IEEE International Symposium on Local and Metropolitan Area Networks](https://lanman2020.ieee-lanman.org/).
