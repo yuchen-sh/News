@@ -1,5 +1,11 @@
 
 ## <span id="j2"><font color='darkblue' face="Georgia">WHAT'S NEWS</font></span>
+### Sept, 2020
+* Our research paper on mobile WiFi got accepted by the ACM International Symposium on Mobility Management and Wireless Access (MobiWac'20), in Spain.
+
+* Our research paper on robust access point association got accepted by the 45th IEEE Conference on Local Computer Networks (LCN), 2020, in Austrilia.
+
+
 ### July, 2020
 * Attended the [IEEE International Symposium on Local and Metropolitan Area Networks](https://lanman2020.ieee-lanman.org/) on 13-14 July, 2020, and presented our recent research "On the Potential Benifits of Mobile APs in mmWave WLANs".
 
