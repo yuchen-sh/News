@@ -1,6 +1,8 @@
 
 ## <span id="j2"><font color='darkblue' face="Georgia">WHAT'S NEWS</font></span>
 ### Sept, 2020
+* Attended the [ACM MobiCom](https://sigmobile.org/mobicom/2020/) and [ACM mmNets](https://mmnets.cse.sc.edu/) on 21-25 Sept., 2020.
+
 * Our research paper on mobile WiFi got accepted by the ACM International Symposium on Mobility Management and Wireless Access (MobiWac'20), in Spain.
 
 * Our research paper on robust access point association got accepted by the 45th IEEE Conference on Local Computer Networks (LCN), 2020, in Austrilia.
