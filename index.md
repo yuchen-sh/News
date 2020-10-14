@@ -1,7 +1,7 @@
 
 ## <span id="j2"><font color='darkblue' face="Georgia">WHAT'S NEWS</font></span>
 
-### Oct 2020,
+### Oct, 2020
 * Our research jounal paper about the design of wireless backhaul for 5G and beyond got accepted by Computer Communications, 2020.
 
 ### Sept, 2020
