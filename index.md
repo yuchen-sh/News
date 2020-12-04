@@ -1,6 +1,14 @@
 
 ## <span id="j2"><font color='darkblue' face="Georgia">WHAT'S NEWS</font></span>
 
+### Dec., 2020
+* Presented the research work "Location, Location, Location: Maximizing mmWave LAN performance through intelligent wireless networking strategies" in ECE PhD proposal presentation, at Georgia Tech, USA.
+
+### Nov., 2020
+* Attended the 45th IEEE Local Computer Conference on 16-19 Nov., 2020, and presented our recent research work on a novel robust multi-AP association strategy in 60GHz wireless LAN.
+
+* We submitted one recent paper on maximizing network coverage with intelligent reflector planning to [IEEE ICC](https://icc2021.ieee-icc.org/).
+
 ### Oct, 2020
 * Our research jounal paper about the design of wireless backhaul for 5G and beyond got accepted by Computer Communications, 2020.
 
@@ -13,7 +21,7 @@
 
 
 ### July, 2020
-* Attended the [IEEE International Symposium on Local and Metropolitan Area Networks](https://lanman2020.ieee-lanman.org/) on 13-14 July, 2020, and presented our recent research "On the Potential Benifits of Mobile APs in mmWave WLANs".
+* Attended the [IEEE International Symposium on Local and Metropolitan Area Networks](https://lanman2020.ieee-lanman.org/) on 13-14 July, 2020, and presented our recent research work "On the Potential Benifits of Mobile APs in mmWave WLANs".
 
 
 ### Jun, 2020
