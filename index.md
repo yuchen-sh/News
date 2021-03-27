@@ -1,6 +1,12 @@
 
 ## <span id="j2"><font color='darkblue' face="Georgia">WHAT'S NEWS</font></span>
 
+### Mar., 2021
+* We submitted one recent paper on wireless backhaul to [Computer Networks](https://www.journals.elsevier.com/computer-networks).
+
+### Jan., 2021
+* Our research paper on the use of reflectors in mmWave networks has been accepted by the IEEE International Conference on Communications in 2021.
+
 ### Dec., 2020
 * Presented the research work "Location, Location, Location: Maximizing mmWave LAN performance through intelligent wireless networking strategies" in ECE PhD proposal presentation, at Georgia Tech, USA.
 
