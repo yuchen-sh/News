@@ -1,6 +1,6 @@
 
 ## <span id="j2"><font color='darkblue' face="Georgia">WHAT'S NEWS</font></span>
-### May., 2021
+### May, 2021
 * Attended the [IEEE INFOCOM](https://infocom2021.ieee-infocom.org/) on 10-13 May, 2021.
 
 ### Apr., 2021
