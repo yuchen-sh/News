@@ -1,7 +1,7 @@
 
 ## <span id="j2"><font color='darkblue' face="Georgia">WHAT'S NEWS</font></span>
 ### Jul., 2021
-* Our research paper on the study of blockage tolerance for wireless backhaul has been accepted to publish on the journal of [Computer Networks](https://www.journals.elsevier.com/computer-networks).
+* Our journal paper on the study of blockage tolerance for wireless backhaul has been accepted to publish on [Computer Networks](https://www.journals.elsevier.com/computer-networks).
 
 ### Jun., 2021
 * Attended the [ACM WNS3](https://www.nsnam.org/research/wns3/wns3-2021/) and presented the research paper on the study of channel modeling, 21-25 June, 2021.
