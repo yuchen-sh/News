@@ -1,5 +1,13 @@
 
 ## <span id="j2"><font color='darkblue' face="Georgia">WHAT'S NEWS</font></span>
+### Nov., 2021
+* I serves as the Technical Program  Co-Chair of [ACM WNS3 2022](https://www.nsnam.org/research/wns3/wns3-2022/). Please submit your work and join us at the U.S. National Institute of Standards and Technology (NIST), in Gaithersburg, Maryland!
+
+### Oct., 2021
+* Our journal paper on a Wi-Fi autonomous networked system with mobility has been accepted to publish on [Transactions on Networking](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=90).
+
+* Our journal paper on the study of multi-AP network planning for WLAN has been accepted to publish on [Journal of Parallel and Distributed Computing](https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing).
+
 ### Jul., 2021
 * Our journal paper on the study of blockage tolerance for wireless backhaul has been accepted to publish on [Computer Networks](https://www.journals.elsevier.com/computer-networks).
 
