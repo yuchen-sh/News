@@ -88,7 +88,7 @@
 
 ### June, 2019
 
-* One of our research papers on mmWave WiFi networks was rejected by the 25th Annual International Conference on Mobile Computing and Networking (MobiCom), but another paper on mobile WiFi systems has been accepted as poster in ACM MobiCom 2019.  
+* Our research on mobile WiFi systems has been accepted as poster paper in ACM MobiCom 2019.  
 
 ### May, 2019
 
