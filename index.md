@@ -14,8 +14,8 @@
 ### Jun., 2021
 * Attended the [ACM WNS3](https://www.nsnam.org/research/wns3/wns3-2021/) and presented the research paper on the study of channel modeling, 21-25 June, 2021.
 
-### May, 2021
-* Attended the [IEEE INFOCOM](https://infocom2021.ieee-infocom.org/) on 10-13 May, 2021.
+<!-- ### May, 2021
+* Attended the [IEEE INFOCOM](https://infocom2021.ieee-infocom.org/) on 10-13 May, 2021. -->
 
 ### Apr., 2021
 * Our research paper on the study of mmWave channels got accepted in ACM WNS3, 2021.
@@ -62,7 +62,7 @@
 * Attended the [IEEE Wireless Communications and Networking Conference](https://wcnc2020.ieee-wcnc.org/) on 25-28 May 2020.
 
 ### April, 2020
-* Gave a research talk "Robust mmWave Design for Next-generation Wireless Networks", at Georgia Institute of Technology, USA.
+* Gave a research talk "Robust mmWave Design for Next-generation Wireless Networks", at ECE seminar, Georgia Institute of Technology, USA.
 
 ### Mar, 2020
 * We submitted one recent paper on mobile mmWave WiFi study to [IEEE International Symposium on Local and Metropolitan Area Networks](https://lanman2020.ieee-lanman.org/).
