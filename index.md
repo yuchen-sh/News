@@ -1,5 +1,14 @@
 
 ## <span id="j2"><font color='darkblue' face="Georgia">WHAT'S NEWS</font></span>
+### Jun., 2022
+* We gave a lightning talk "Towards Efficient Distributed Simulation of Next-Generation Wireless Use Cases in ns-3", at ACM WNS3, virtual conference.
+
+### Mar., 2022
+* Invited to give a research talk "Location, Location, Location: Intelligent mmWave Networking Design for Next-Generation Wireless Systems", at University of Pittsburgh, USA.
+
+### Jan., 2022
+* Invited to give a research talk "Intelligent mmWave Networking Design for Next-Generation Wireless Systems", at Department of Computer Science and Engineering, University of Notre Dame, USA.
+
 ### Nov., 2021
 * I serve as the Technical Program  Co-Chair of [ACM WNS3 2022](https://www.nsnam.org/research/wns3/wns3-2022/). Please submit your work and join us at the U.S. National Institute of Standards and Technology (NIST), in Gaithersburg, Maryland!
 
