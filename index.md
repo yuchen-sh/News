@@ -2,9 +2,10 @@
 ## <span id="j2"><font color='darkblue' face="Georgia">WHAT'S NEWS</font></span>
 ### Jun., 2022
 * We gave a lightning talk "Towards Efficient Distributed Simulation of Next-Generation Wireless Use Cases in ns-3", at ACM WNS3, virtual conference.
+* Invited to attend the NSF Workshop on Radio Frequency Dataset Generation, Access, and Sharing, at the Northeastern University campus in Boston.
 
 ### Mar., 2022
-* Invited to give a research talk "Location, Location, Location: Intelligent mmWave Networking Design for Next-Generation Wireless Systems", at University of Pittsburgh, USA.
+* Invited to give a research talk "Location, Location, Location: Intelligent mmWave Networking Design for Next-Generation Wireless Systems", at the University of Pittsburgh, USA.
 
 ### Jan., 2022
 * Invited to give a research talk "Intelligent mmWave Networking Design for Next-Generation Wireless Systems", at Department of Computer Science and Engineering, University of Notre Dame, USA.
