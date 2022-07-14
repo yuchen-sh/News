@@ -1,5 +1,8 @@
 
 ## <span id="j2"><font color='darkblue' face="Georgia">WHAT'S NEWS</font></span>
+### Jul., 2022
+* We got the Best Paper Awards for our paper titled "Exploring Performance Limits on Proactive Fair Scheduling for mmWave WLANs" in IEEE LANMAN 2022!
+
 ### Jun., 2022
 * We gave a lightning talk "Towards Efficient Distributed Simulation of Next-Generation Wireless Use Cases in ns-3", at ACM WNS3, virtual conference.
 
@@ -41,7 +44,7 @@
 * Presented the research work "Location, Location, Location: Maximizing mmWave LAN performance through intelligent wireless networking strategies" in ECE PhD proposal presentation, at Georgia Tech, USA.
 
 ### Nov., 2020
-* Attended the 45th IEEE Local Computer Conference on 16-19 Nov., 2020, and presented our recent research work on a novel robust multi-AP association strategy in 60GHz wireless LAN.
+* Attended the 45th IEEE Local Computer Conference on 16-19 Nov., 2020, and presented our recent research work on a novel robust multi-AP association strategy in 60 GHz wireless LAN. Also, our paper was selected as the second Best Paper among all accepted papers. 
 
 * We submitted one recent paper on maximizing network coverage with intelligent reflector planning to [IEEE ICC](https://icc2021.ieee-icc.org/).
 
@@ -83,7 +86,7 @@
 
 ### Nov, 2019
 
-* Attended ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWiM) on Nov. 25th, 2019, in Miami, and presented two accepted papers. One paper was the Best Paper Finalist. 
+* Attended ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWiM) on Nov. 25th, 2019, in Miami, and presented two accepted papers. One paper was the Best Paper Award finalist. 
 
 * Attended NSF I/UCRC Meeting for Fiber Wireless Integration and Networking for Heterogeneous Mobile Data Communications on Nov. 6th, 2019, and presented a poster about the work of mmWave Wireless LANs. 
 
