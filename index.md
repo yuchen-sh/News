@@ -1,7 +1,7 @@
 
 ## <span id="j2"><font color='darkblue' face="Georgia">WHAT'S NEWS</font></span>
 ### Jul., 2022
-* We got the Best Paper Awards for our paper titled "Exploring Performance Limits on Proactive Fair Scheduling for mmWave WLANs" in IEEE LANMAN 2022!
+* We got the Best Paper Award for our paper titled "Exploring Performance Limits on Proactive Fair Scheduling for mmWave WLANs" in IEEE LANMAN 2022!
 
 ### Jun., 2022
 * We gave a lightning talk "Towards Efficient Distributed Simulation of Next-Generation Wireless Use Cases in ns-3", at ACM WNS3, virtual conference.
