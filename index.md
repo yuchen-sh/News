@@ -1,6 +1,8 @@
 
 ## <span id="j2"><font color='darkblue' face="Georgia">WHAT'S NEWS</font></span>
 ### Jul., 2022
+* I will teach CSC/ECE 791-005 Advanced NextG Network Design at NC State University this fall. Please feel free to attend or directly reach out to me if you need more information about the course.
+
 * We got the Best Paper Award for our paper titled "Exploring Performance Limits on Proactive Fair Scheduling for mmWave WLANs" in IEEE LANMAN 2022!
 
 ### Jun., 2022
