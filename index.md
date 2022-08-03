@@ -1,5 +1,5 @@
 
-## <span id="j2"><font color='darkblue' face="Georgia">WHAT'S NEWS</font></span>
+## <span id="j2"><font color='darkblue' face="Georgia">RECENT NEWS</font></span>
 ### Jul., 2022
 * I will teach CSC/ECE 791-005 Advanced NextG Network Design at NC State University this fall. Please feel free to attend or directly reach out to me if you need more information about the course.
 
