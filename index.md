@@ -33,7 +33,7 @@
 <!-- ### May, 2021
 * Attended the [IEEE INFOCOM](https://infocom2021.ieee-infocom.org/) on 10-13 May, 2021. -->
 
-### Apr., 2021
+<!--### Apr., 2021
 * Our research paper on the study of mmWave channels got accepted in ACM WNS3, 2021.
 
 ### Mar., 2021
@@ -110,7 +110,7 @@
 
 * Attended IEEE International Communication Conference (ICC) on May 20th, 2019, in Shanghai, and presented two accepted papers. 
 
-* One of our research papers on end-to-end simulations of mmWave backhaul networks in ns-3 was accepted by ACM WNS3 workshop.
+* One of our research papers on end-to-end simulations of mmWave backhaul networks in ns-3 was accepted by ACM WNS3 workshop.-->
 
 
 [<u><font size='4'>Back to Homepage</font></u>](https://yuchen-sh.github.io)
