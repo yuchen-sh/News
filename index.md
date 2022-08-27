@@ -1,5 +1,8 @@
 
 ## <span id="j2"><font color='darkblue' face="Georgia">RECENT NEWS</font></span>
+### Aug., 2022
+* Our research paper on a machine learning based link quality prediction approach got accepted by the ACM International Symposium on Mobility Management and Wireless Access (MobiWac'22), in Canada.
+
 ### Jul., 2022
 * I will teach CSC/ECE 791-005 Advanced NextG Network Design at NC State University this fall. Please feel free to attend or directly reach out to me if you need more information about the course.
 
