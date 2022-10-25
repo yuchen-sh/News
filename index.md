@@ -2,7 +2,7 @@
 ## <span id="j2"><font color='darkblue' face="Georgia">RECENT NEWS</font></span>
 ### Oct., 2022
 * We got the Best Paper Award for our paper titled "Environment-Aware Link Quality Prediction for Millimeter-Wave Wireless LANs" in ACM International Symposium on Mobility Management and Wireless Access!
-* 
+
 ### Aug., 2022
 * Our research paper on a machine learning based link quality prediction approach got accepted by the ACM International Symposium on Mobility Management and Wireless Access (MobiWac'22), in Canada.
 
