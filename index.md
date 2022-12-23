@@ -22,7 +22,7 @@
 ### Jan., 2022
 * Invited to give a research talk "Intelligent mmWave Networking Design for Next-Generation Wireless Systems", at Department of Computer Science and Engineering, University of Notre Dame, USA.
 
-### Nov., 2021
+<!-- ### Nov., 2021
 * I serve as the Technical Program  Co-Chair of [ACM WNS3 2022](https://www.nsnam.org/research/wns3/wns3-2022/). Please submit your work and join us at the U.S. National Institute of Standards and Technology (NIST), in Gaithersburg, Maryland!
 
 ### Oct., 2021
@@ -46,7 +46,7 @@
 * We submitted one recent paper on wireless backhaul to [Computer Networks](https://www.journals.elsevier.com/computer-networks).
 
 ### Jan., 2021
-* Our research paper on the use of reflectors in mmWave networks has been accepted by the IEEE International Conference on Communications in 2021.
+* Our research paper on the use of reflectors in mmWave networks has been accepted by the IEEE International Conference on Communications in 2021.-->
 
 ### Dec., 2020
 * Presented the research work "Location, Location, Location: Maximizing mmWave LAN performance through intelligent wireless networking strategies" in ECE PhD proposal presentation, at Georgia Tech, USA.
