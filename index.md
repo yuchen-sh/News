@@ -34,7 +34,7 @@
 * Our journal paper on the study of blockage tolerance for wireless backhaul has been accepted to publish on [Computer Networks](https://www.journals.elsevier.com/computer-networks).
 
 ### Jun., 2021
-* Attended the [ACM WNS3](https://www.nsnam.org/research/wns3/wns3-2021/) and presented the research paper on the study of channel modeling, 21-25 June, 2021.
+* Attended the [ACM WNS3](https://www.nsnam.org/research/wns3/wns3-2021/) and presented the research paper on the study of channel modeling, 21-25 June, 2021.-->
 
 <!-- ### May, 2021
 * Attended the [IEEE INFOCOM](https://infocom2021.ieee-infocom.org/) on 10-13 May, 2021. -->
@@ -46,7 +46,7 @@
 * We submitted one recent paper on wireless backhaul to [Computer Networks](https://www.journals.elsevier.com/computer-networks).
 
 ### Jan., 2021
-* Our research paper on the use of reflectors in mmWave networks has been accepted by the IEEE International Conference on Communications in 2021.-->
+* Our research paper on the use of reflectors in mmWave networks has been accepted by the IEEE International Conference on Communications in 2021.
 
 ### Dec., 2020
 * Presented the research work "Location, Location, Location: Maximizing mmWave LAN performance through intelligent wireless networking strategies" in ECE PhD proposal presentation, at Georgia Tech, USA.
