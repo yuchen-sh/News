@@ -3,6 +3,9 @@
 ### Dec., 2022
 * I will teach CSC/ECE 570 Computer Networks at NC State University in spring, 2023. Please feel free to attend or directly reach out to me if you need more information about the course.
 
+### Nov., 2022
+* I serve as the Technical Program  Co-Chair of [ACM WNS3 2023](https://www.nsnam.org/research/wns3/wns3-2023/). Please submit your work and join us in Washington, D.C. area on June 28-29, 2023!
+
 ### Oct., 2022
 * We got the Best Paper Award for our paper titled "Environment-Aware Link Quality Prediction for Millimeter-Wave Wireless LANs" in ACM International Symposium on Mobility Management and Wireless Access!
 
