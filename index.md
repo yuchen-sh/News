@@ -1,5 +1,10 @@
 
 ## <span id="j2"><font color='darkblue' face="Georgia">RECENT NEWS</font></span>
+### Jan., 2023
+* I hold a courtesy appointment in the Department of Electrical and Computer Engineering (ECE) at NC State.
+
+* Congrats on the paper "Joint Optimization of Sensing and Communications in Vehicular Networks: A Graph Neural Network-based Approach" got acceppted in IEEE International Conference on Communications (ICC), 2023.
+
 ### Dec., 2022
 * I will teach CSC/ECE 570 Computer Networks at NC State University in spring, 2023. Please feel free to attend or directly reach out to me if you need more information about the course.
 
