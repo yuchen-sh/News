@@ -3,6 +3,8 @@
 ### May, 2023
 * Glad to serve as Associate Editor of IEEE Transactions on Green Communications and Networking, and please feel free to submit your work [here](https://www.comsoc.org/publications/journals/ieee-tgcn).
 
+* My students and I attended the AERPAW Community Workshop 2023 at NC State. Thanks AERPAW folks!
+
 ### Apr., 2023
 * Congrats on the paper "E-App: Adaptive mmWave Access Point Planning with Environmental Awareness in Wireless LANs" got accepted in IEEE International Conference on Computer Communications and Networks (IC3N), 2023. See you at Hawaii!
 
