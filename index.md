@@ -1,7 +1,7 @@
 
 ## <span id="j2"><font color='darkblue' face="Georgia">RECENT NEWS</font></span>
 ### May, 2023
-* Congrats on the paper "Few-Shot Multi-Domain Knowledge Rearming for Context-Aware Defence Against Advanced Persistent Threats" got accepted in IEEE International Conference on Smart Applications, Communications and Networking, 2023. 
+* Congrats on the cybersecurity paper "Few-Shot Multi-Domain Knowledge Rearming for Context-Aware Defence Against Advanced Persistent Threats" got accepted in IEEE International Conference on Smart Applications, Communications and Networking, 2023. 
 
 * Glad to serve as Associate Editor of IEEE Transactions on Green Communications and Networking, and please feel free to submit your work [here](https://www.comsoc.org/publications/journals/ieee-tgcn).
 
