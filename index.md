@@ -1,7 +1,7 @@
 
 ## <span id="j2"><font color='darkblue' face="Georgia">RECENT NEWS</font></span>
 ### May, 2023
-* Glad to share our recent work on generative model (augmented LM). Feel free to check out our [demo](https://huggingface.co/spaces/rewoo/ReWOO-Demo); [paper](https://arxiv.org/abs/2305.18323); and [code](https://github.com/billxbf/ReWOO).
+* Glad to share our recent work on generative model (tool-augmented LLM). Feel free to check out our [demo](https://huggingface.co/spaces/rewoo/ReWOO-Demo); [paper](https://arxiv.org/abs/2305.18323); and [code](https://github.com/billxbf/ReWOO).
 
 * Congrats on the cybersecurity paper "Few-Shot Multi-Domain Knowledge Rearming for Context-Aware Defence Against Advanced Persistent Threats" got accepted in IEEE International Conference on Smart Applications, Communications and Networking, 2023. 
 
