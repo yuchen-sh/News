@@ -1,7 +1,7 @@
 
 ## <span id="j2"><font color='darkblue' face="Georgia">RECENT NEWS</font></span>
 ### Jul., 2023
-* * We got the Best Paper Award for our paper titled "E-App: Adaptive mmWave Access Point Planning with Environmental Awareness in Wireless LANs” at IEEE International Conference on Computer Communications and Networks (ICCCN)!
+* We got the Best Paper Award for our paper titled "E-App: Adaptive mmWave Access Point Planning with Environmental Awareness in Wireless LANs” at IEEE International Conference on Computer Communications and Networks (ICCCN)!
 
 ### June, 2023
 * We organize a thematic issue entitled "Next-Generation Network Architecture, Algorithms, and Security" in International Journal of Sensors, Wireless Communications and Control (SWCC). Please feel free to submit your work via the link [here](https://bentham.manuscriptpoint.com/journals/SWCC), select the option of "Manuscript Submission in any Thematic Issue", and enter the hot topic (HT) code as "BMS-SWCC-2023-HT-67".
