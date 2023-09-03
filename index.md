@@ -1,6 +1,8 @@
 
 <!-- ## <span id="j2"><font color='darkblue' face="Georgia">RECENT NEWS</font></span> -->
 ### Aug., 2023
+* Our team participates in the [AERPAW Find A Rover (AFAR)](https://aerpaw.org/aerpaw-afar-challenge/) Challenge, aiming to leverage autonomous navigation, wireless communication, and sensing capabilities within the AERPAW platform.
+
 * Congrats on the acceptance of our journal paper on Graph Neural Networks for Joint Communication and Sensing Optimization at IEEE Journal on Selected Areas in Communications (JSAC)!
 
 ### Jul., 2023
