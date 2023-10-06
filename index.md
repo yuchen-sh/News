@@ -1,5 +1,8 @@
 
 <!-- ## <span id="j2"><font color='darkblue' face="Georgia">RECENT NEWS</font></span> -->
+### Sep., 2023
+* Congrats on the acceptance of our system demonstration -- A Collaborative Platform for Tool-Augmented LLMs in The Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023!
+
 ### Aug., 2023
 * Our team participates in the [AERPAW Find A Rover (AFAR)](https://aerpaw.org/aerpaw-afar-challenge/) Challenge, aiming to leverage autonomous navigation, wireless communication, and sensing capabilities within the AERPAW platform.
 
