@@ -1,5 +1,8 @@
 
 <!-- ## <span id="j2"><font color='darkblue' face="Georgia">RECENT NEWS</font></span> -->
+### Oct., 2023
+* Will attend the NSF CSR PI meeting on Oct. 16th and 17th at Duke University. Please feel free to reach out if you'd like to have a chat there!
+
 ### Sep., 2023
 * Congrats on the acceptance of our system demonstration -- A Collaborative Platform for Tool-Augmented LLMs in The Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023!
 
