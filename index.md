@@ -1,6 +1,8 @@
 
 <!-- ## <span id="j2"><font color='darkblue' face="Georgia">RECENT NEWS</font></span> -->
 ### Oct., 2023
+* Congrats on the acceptance of two recent papers on Trustworthy Federated Learning and Federated Graph Node Classification in IoT!
+
 * Will attend the NSF CSR PI meeting on Oct. 16th and 17th at Duke University. Please feel free to reach out if you'd like to have a chat there!
 
 ### Sep., 2023
