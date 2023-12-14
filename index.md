@@ -1,5 +1,8 @@
 
 <!-- ## <span id="j2"><font color='darkblue' face="Georgia">RECENT NEWS</font></span> -->
+### Dec., 2023
+* Congrats on the acceptance of two recent papers on Digital Twin Networks in IEEE Journal of Selected Topics in Signal Processing (JSTSP) and IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)!
+
 ### Oct., 2023
 * Congrats on the acceptance of two recent papers on Trustworthy Federated Learning and Federated Graph Node Classification in IoT!
 
