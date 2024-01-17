@@ -1,5 +1,8 @@
 
 <!-- ## <span id="j2"><font color='darkblue' face="Georgia">RECENT NEWS</font></span> -->
+### Jan., 2024
+* Congrats on the acceptance of two recent papers on Beam Management and Material-inspired Networking in IEEE International Conference on Communications (ICC)!
+
 ### Dec., 2023
 * Congrats on the acceptance of two recent papers on Digital Network Twins in IEEE Journal of Selected Topics in Signal Processing (JSTSP) and IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)!
 
