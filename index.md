@@ -4,7 +4,7 @@
 
 * \[04.2024\] Congrats on the acceptance of recent paper on AERPAW Digital Twin and Testbed for Signal Source Localization in the SLICES Workshop of IFIP/IEEE Networking 2024!
 
-* \[04.2024\] Glad to serve as Associate Editor of IEEE Transactions on Machine Learning in Communications and Networking, and please feel free to submit your work [here](https://www.comsoc.org/publications/journals/ieee-tmlcn/call-for-papers)
+* \[04.2024\] Glad to serve as Associate Editor of IEEE Transactions on Machine Learning in Communications and Networking, and please feel free to submit your work [here](https://www.comsoc.org/publications/journals/ieee-tmlcn/call-for-papers).
 
 * \[04.2024\] Congrats on the acceptance of three recent papers on Generative AI, Digital Twin, and Federated Learning for Networks in IFIP/IEEE Networking 2024! See you in Greece!
 
