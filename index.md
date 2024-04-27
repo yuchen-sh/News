@@ -10,6 +10,8 @@
 
 * \[04.2024\] Congratulations to my Ph.D. student, Zifan Zhang, for receiving the NCSU Graduate Merit Award (GMA)!
 
+* \[03.2024\] Congrats on the acceptance of recent paper on Federated Learning Security in ACM Conference on Computer and Communications Security (CCS)!
+
 * \[02.2024\] Glad to serve as an Area Editor for Elsevier Computer Networks journal, and please feel free to submit your work [here](https://www.sciencedirect.com/journal/computer-networks). 
 
 * \[01.2024\] Call for Paper: We are organizing Workshops on [Edge Learning over 5G Mobile Networks and Beyond](https://ws21icc2024workshop-edge5gmn.edas.info/) in IEEE ICC and [Digital Twins for the Metaverse](https://ieeecompsac.computer.org/2024/dt4meta/) in The 48th IEEE COMPSAC. Please submit your paper if you are working on relevant topics!
@@ -18,91 +20,61 @@
 
 * \[12.2023\] Congrats on the acceptance of two recent papers on Digital Network Twins in IEEE Journal of Selected Topics in Signal Processing (JSTSP) and IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)! <!-- Go twinning and learning for NextG networking! -->
 
+* \[10.2023\] Congrats on the acceptance of two recent papers on Trustworthy Federated Learning and Federated Graph Node Classification in IoT!
+
+* \[10.2023\] Will attend the NSF CSR PI meeting on Oct. 16th and 17th at Duke University. Please feel free to reach out if you'd like to have a chat there!
+
 * \[09.2023\] Our project on "[Digital Network Twins](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2312138&HistoricalAwards=false)" is funded by the NSF CNS Core program, thanks NSF!
 
+* \[09.2023\] Congrats on the acceptance of our system demonstration -- A Collaborative Platform for Tool-Augmented LLMs in The Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023!
+
 * \[08.2023\] Congrats on the acceptance of our journal paper on Graph Neural Networks for Joint Communication and Sensing Optimization at IEEE Journal on Selected Areas in Communications (JSAC)!
+
+* \[08.2023\] Our team participates in the [AERPAW Find A Rover (AFAR)](https://aerpaw.org/aerpaw-afar-challenge/) Challenge, aiming to leverage autonomous navigation, wireless communication, and sensing capabilities within the AERPAW platform.
 
 * \[07.2023\] Congrats on the acceptance of our three papers focusing on UAV Localization, Complex Neural Networks, and Spatial-Temporal Prediction Model at the IEEE Global Communications Conference (GLOBECOM)! 
 
 * \[07.2023\] We got the <font color='blue'>Best Paper Award</font> for our paper titled "E-App: Adaptive mmWave Access Point Planning with Environmental Awareness in Wireless LANs” at IEEE International Conference on Computer Communications and Networks (ICCCN)!
 
+* \[06.2023\] We organize a thematic issue entitled "Next-Generation Network Architecture, Algorithms, and Security" in International Journal of Sensors, Wireless Communications and Control (SWCC). Please feel free to submit your work via the link [here](https://bentham.manuscriptpoint.com/journals/SWCC), select the option of "Manuscript Submission in any Thematic Issue", and enter the hot topic (HT) code as "BMS-SWCC-2023-HT-67".
+
 * \[05.2023\] Glad to serve as Associate Editor of IEEE Transactions on Green Communications and Networking, and please feel free to submit your work [here](https://www.comsoc.org/publications/journals/ieee-tgcn).
 
+* \[05.2023\] Glad to share our recent work on generative model (tool-augmented LLM). Feel free to check out our [demo](https://huggingface.co/spaces/rewoo/ReWOO-Demo); [paper](https://arxiv.org/abs/2305.18323); and [code](https://github.com/billxbf/ReWOO).
 
+* \[05.2023\] Congrats on the cybersecurity paper "Few-Shot Multi-Domain Knowledge Rearming for Context-Aware Defence Against Advanced Persistent Threats" got accepted in IEEE International Conference on Smart Applications, Communications and Networking, 2023.
 
-### Jan., 2024
-* Congrats on the acceptance of two recent papers on Beam Management and Material-inspired Networking in IEEE International Conference on Communications (ICC)!
+* \[05.2023\] My students and I are invited to attend the AERPAW Community Workshop 2023 at NC State. Thanks AERPAW folks!
 
-### Dec., 2023
-* Congrats on the acceptance of two recent papers on Digital Network Twins in IEEE Journal of Selected Topics in Signal Processing (JSTSP) and IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)!
+* \[04.2023\] Congrats on the paper "E-App: Adaptive mmWave Access Point Planning with Environmental Awareness in Wireless LANs" got accepted in IEEE International Conference on Computer Communications and Networks (IC3N), 2023. See you at Hawaii!
 
-### Oct., 2023
-* Congrats on the acceptance of two recent papers on Trustworthy Federated Learning and Federated Graph Node Classification in IoT!
+* \[04.2023\] Congrats on the paper "IVSign: Interpretable Vulnerability Signature via Code Embedding and Static Analysis" got accepted in IEEE/IFIP International Conference on Dependable Systems and Networks (DSN) Workshop on Data-Centric Dependability and Security, 2023.
 
-* Will attend the NSF CSR PI meeting on Oct. 16th and 17th at Duke University. Please feel free to reach out if you'd like to have a chat there!
+* \[01.2023\] I hold a courtesy appointment in the Department of Electrical and Computer Engineering (ECE) at NC State.
 
-### Sep., 2023
-* Congrats on the acceptance of our system demonstration -- A Collaborative Platform for Tool-Augmented LLMs in The Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023!
+* \[01.2023\] Congrats on the paper "Joint Optimization of Sensing and Communications in Vehicular Networks: A Graph Neural Network-based Approach" got accepted in IEEE International Conference on Communications (ICC), 2023.
 
-### Aug., 2023
-* Our team participates in the [AERPAW Find A Rover (AFAR)](https://aerpaw.org/aerpaw-afar-challenge/) Challenge, aiming to leverage autonomous navigation, wireless communication, and sensing capabilities within the AERPAW platform.
+* \[12.2022\] I will teach CSC/ECE 570 Computer Networks at NC State University in spring, 2023. Please feel free to attend or directly reach out to me if you need more information about the course.
 
-* Congrats on the acceptance of our journal paper on Graph Neural Networks for Joint Communication and Sensing Optimization at IEEE Journal on Selected Areas in Communications (JSAC)!
+* \[11.2022\] I serve as the Technical Program  Co-Chair of [ACM WNS3 2023](https://www.nsnam.org/research/wns3/wns3-2023/). Please submit your work and join us in Washington, D.C. area on June 28-29, 2023!
 
-### Jul., 2023
-* Congrats on the acceptance of our three papers focusing on UAV Localization, Complex Neural Networks, and Spatial-Temporal Prediction Model at the IEEE Global Communications Conference (GLOBECOM)! 
+* \[10.2022\] We got the Best Paper Award for our paper titled "Environment-Aware Link Quality Prediction for Millimeter-Wave Wireless LANs" in ACM International Symposium on Mobility Management and Wireless Access!
 
-* We got the Best Paper Award for our paper titled "E-App: Adaptive mmWave Access Point Planning with Environmental Awareness in Wireless LANs” at IEEE International Conference on Computer Communications and Networks (ICCCN)!
+* \[08.2022\] Our research paper on a machine learning based link quality prediction approach got accepted by the ACM International Symposium on Mobility Management and Wireless Access (MobiWac'22), in Canada.
 
-### June, 2023
-* We organize a thematic issue entitled "Next-Generation Network Architecture, Algorithms, and Security" in International Journal of Sensors, Wireless Communications and Control (SWCC). Please feel free to submit your work via the link [here](https://bentham.manuscriptpoint.com/journals/SWCC), select the option of "Manuscript Submission in any Thematic Issue", and enter the hot topic (HT) code as "BMS-SWCC-2023-HT-67".
+* \[07.2022\] I will teach CSC/ECE 791-005 Advanced NextG Network Design at NC State University this fall. Please feel free to attend or directly reach out to me if you need more information about the course.
 
-### May, 2023
-* Glad to share our recent work on generative model (tool-augmented LLM). Feel free to check out our [demo](https://huggingface.co/spaces/rewoo/ReWOO-Demo); [paper](https://arxiv.org/abs/2305.18323); and [code](https://github.com/billxbf/ReWOO).
+* \[07.2022\] We got the Best Paper Award for our paper titled "Exploring Performance Limits on Proactive Fair Scheduling for mmWave WLANs" in IEEE LANMAN 2022!
 
-* Congrats on the cybersecurity paper "Few-Shot Multi-Domain Knowledge Rearming for Context-Aware Defence Against Advanced Persistent Threats" got accepted in IEEE International Conference on Smart Applications, Communications and Networking, 2023. 
+* \[06.2022\] We gave a lightning talk "Towards Efficient Distributed Simulation of Next-Generation Wireless Use Cases in ns-3", at ACM WNS3, virtual conference.
 
-* Glad to serve as Associate Editor of IEEE Transactions on Green Communications and Networking, and please feel free to submit your work [here](https://www.comsoc.org/publications/journals/ieee-tgcn).
+* \[06.2022\] Invited to attend the NSF Workshop on Radio Frequency Dataset Generation, Access, and Sharing, at the Northeastern University campus in Boston.
 
-* My students and I attended the AERPAW Community Workshop 2023 at NC State. Thanks AERPAW folks!
+<!-- ### Mar., 2022
+* Invited to give a research talk "Location, Location, Location: Intelligent mmWave Networking Design for Next-Generation Wireless Systems", at the University of Pittsburgh, USA. -->
 
-### Apr., 2023
-* Congrats on the paper "E-App: Adaptive mmWave Access Point Planning with Environmental Awareness in Wireless LANs" got accepted in IEEE International Conference on Computer Communications and Networks (IC3N), 2023. See you at Hawaii!
-
-* Congrats on the paper "IVSign: Interpretable Vulnerability Signature via Code Embedding and Static Analysis" got accepted in IEEE/IFIP International Conference on Dependable Systems and Networks (DSN) Workshop on Data-Centric Dependability and Security, 2023.
-
-### Jan., 2023
-* I hold a courtesy appointment in the Department of Electrical and Computer Engineering (ECE) at NC State.
-
-* Congrats on the paper "Joint Optimization of Sensing and Communications in Vehicular Networks: A Graph Neural Network-based Approach" got accepted in IEEE International Conference on Communications (ICC), 2023.
-
-### Dec., 2022
-* I will teach CSC/ECE 570 Computer Networks at NC State University in spring, 2023. Please feel free to attend or directly reach out to me if you need more information about the course.
-
-### Nov., 2022
-* I serve as the Technical Program  Co-Chair of [ACM WNS3 2023](https://www.nsnam.org/research/wns3/wns3-2023/). Please submit your work and join us in Washington, D.C. area on June 28-29, 2023!
-
-### Oct., 2022
-* We got the Best Paper Award for our paper titled "Environment-Aware Link Quality Prediction for Millimeter-Wave Wireless LANs" in ACM International Symposium on Mobility Management and Wireless Access!
-
-### Aug., 2022
-* Our research paper on a machine learning based link quality prediction approach got accepted by the ACM International Symposium on Mobility Management and Wireless Access (MobiWac'22), in Canada.
-
-### Jul., 2022
-* I will teach CSC/ECE 791-005 Advanced NextG Network Design at NC State University this fall. Please feel free to attend or directly reach out to me if you need more information about the course.
-
-* We got the Best Paper Award for our paper titled "Exploring Performance Limits on Proactive Fair Scheduling for mmWave WLANs" in IEEE LANMAN 2022!
-
-### Jun., 2022
-* We gave a lightning talk "Towards Efficient Distributed Simulation of Next-Generation Wireless Use Cases in ns-3", at ACM WNS3, virtual conference.
-
-* Invited to attend the NSF Workshop on Radio Frequency Dataset Generation, Access, and Sharing, at the Northeastern University campus in Boston.
-
-### Mar., 2022
-* Invited to give a research talk "Location, Location, Location: Intelligent mmWave Networking Design for Next-Generation Wireless Systems", at the University of Pittsburgh, USA.
-
-### Jan., 2022
-* Invited to give a research talk "Intelligent mmWave Networking Design for Next-Generation Wireless Systems", at Department of Computer Science and Engineering, University of Notre Dame, USA.
+<!-- ### Jan., 2022
+* Invited to give a research talk "Intelligent mmWave Networking Design for Next-Generation Wireless Systems", at Department of Computer Science and Engineering, University of Notre Dame, USA. -->
 
 <!-- ### Nov., 2021
 * I serve as the Technical Program  Co-Chair of [ACM WNS3 2022](https://www.nsnam.org/research/wns3/wns3-2022/). Please submit your work and join us at the U.S. National Institute of Standards and Technology (NIST), in Gaithersburg, Maryland!
