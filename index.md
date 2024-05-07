@@ -1,6 +1,6 @@
 
 <!-- ## <span id="j2"><font color='darkblue' face="Georgia">RECENT NEWS</font></span> -->
-* \[05.2023\] Will attend the NSF Spectrum Week on May 13th and 14th. Please feel free to reach out if you'd like to have a chat there!
+* \[05.2024\] Will attend the NSF Spectrum Week on May 13th and 14th. Please feel free to reach out if you'd like to have a chat there!
 
 * \[05.2024\] Congrats on the acceptance of recent demo paper on Data Poisoning Behaviors in Federated Learning in IEEE International Conference on Distributed Computing Systems (ICDCS) 2024! See you in Jersey City!
 
