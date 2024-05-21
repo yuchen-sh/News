@@ -1,6 +1,6 @@
 
 <!-- ## <span id="j2"><font color='darkblue' face="Georgia">RECENT NEWS</font></span> -->
-* \[05.2023\] Congrats on the acceptance of our journal paper on Digital Network Twins for Edge Caching Optimization at IEEE Journal on Selected Areas in Communications (JSAC)!
+* \[05.2024\] Congrats on the acceptance of our journal paper on Digital Network Twins for Edge Caching Optimization at IEEE Journal on Selected Areas in Communications (JSAC)!
 
 * \[05.2024\] Excited to announce our upcoming Summer Residential Camp: [Seeing through a Digital World](https://www.engr.ncsu.edu/theengineeringplace/summerprograms/hs-residential/), happening this summer. Join us for an opportunity to delve into the intricacies of complex network systems within the digital realm!
 
