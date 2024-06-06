@@ -1,5 +1,7 @@
 
 <!-- ## <span id="j2"><font color='darkblue' face="Georgia">RECENT NEWS</font></span> -->
+* \[06.2024\] Our paper, titled "Poisoning Attacks on Federated Learning-based Wireless Traffic Prediction", received the <font color='blue'>Best Paper Award Runner-up</font> at IEEE/IFIP Networking!
+
 * \[05.2024\] Our journal paper on mmWave Radio with Mobility Awareness was accepted at IEEE Transactions on Mobile Computing (TMC)! Congrats Zhizhen!
 
 * \[05.2024\] Our journal paper on Digital Network Twins for Edge Caching Optimization was accepted at IEEE Journal on Selected Areas in Communications (JSAC)! Congrats Zifan!
