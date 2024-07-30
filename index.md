@@ -1,5 +1,9 @@
 
 <!-- ## <span id="j2"><font color='darkblue' face="Georgia">RECENT NEWS</font></span> -->
+* \[07.2024\] Media coverage on ["How a ‘Digital Twin’ Can Make Wireless Networks Faster, More Reliable"](https://news.ncsu.edu/2024/07/improved-edge-caching/).
+
+* \[07.2024\] Our paper on fast and robust 3D object reconstruction is accepted to ACM MM 2024.
+
 * \[07.2024\] Our project on "Towards Secure and Privacy-enhancing Digital World Experiences" is funded by the NSF SaTC Core program, thanks NSF!
 
 * \[06.2024\] Our paper, titled "Poisoning Attacks on Federated Learning-based Wireless Traffic Prediction", received the <font color='blue'>Best Paper Award Runner-up</font> at IEEE/IFIP Networking!
