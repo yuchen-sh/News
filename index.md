@@ -1,5 +1,7 @@
 
 <!-- ## <span id="j2"><font color='darkblue' face="Georgia">RECENT NEWS</font></span> -->
+* \[08.2024\] Congrats on the acceptance of our three papers focusing on Localization against Jamming Attacks, DT Syncronization, and Clustered Federated Learning at the IEEE Global Communications Conference (GLOBECOM)! 
+
 * \[07.2024\] Media coverage on ["How a ‘Digital Twin’ Can Make Wireless Networks Faster, More Reliable"](https://news.ncsu.edu/2024/07/improved-edge-caching/).
 
 * \[07.2024\] Our paper on fast and robust 3D object reconstruction is accepted to ACM MM 2024.
