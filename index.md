@@ -1,5 +1,9 @@
 
 <!-- ## <span id="j2"><font color='darkblue' face="Georgia">RECENT NEWS</font></span> -->
+* \[08.2024\] Invited to attend the NSF SaTC PI meeting at CMU. Please feel free to reach out if you'd like to have a chat there!
+
+* \[08.2024\] Congrats on the acceptance of our paper for an interactive, automated, and script-free simulation paradigm using LLMs at the IEEE IPCCC! 
+
 * \[08.2024\] Invited to attend the NSF Workshop on Sustainable Computing AI at Purdue University.
 
 * \[08.2024\] Will attend the NSF CSSI/CyberTraining/SCIPE PI Meeting at Charlotte, NC! Please feel free to reach out if you'd like to have a chat there!
