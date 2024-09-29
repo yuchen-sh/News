@@ -2,7 +2,7 @@
 <!-- ## <span id="j2"><font color='darkblue' face="Georgia">RECENT NEWS</font></span> -->
 * \[09.2024\] Congrats on the acceptance of our paper for Open RAN with Air Mobility at the Elsevier Computer Communications!
 
-* \[09.2024\] Congrats on the acceptance of our paper for LLM for network instrution detection at the IEEE CCNC!
+* \[09.2024\] Congrats on the acceptance of our paper for LLM in network instrution detection at the IEEE CCNC!
 
 * \[09.2024\] Will attend the Oak Ridge National Laboratory’s Core Universities AI Workshop and post our recent LLM & DT works!
 
