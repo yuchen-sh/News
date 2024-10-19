@@ -1,5 +1,7 @@
 
 <!-- ## <span id="j2"><font color='darkblue' face="Georgia">RECENT NEWS</font></span> -->
+* \[10.2024\] We got an Educational and Technology Funds from NCSU to support our wireless sensing project!
+
 * \[09.2024\] Congrats on the acceptance of our paper for Open RAN with air mobility at the Elsevier Computer Communications!
 
 * \[09.2024\] Congrats on the acceptance of our paper for LLM in network instrution detection at the IEEE CCNC!
